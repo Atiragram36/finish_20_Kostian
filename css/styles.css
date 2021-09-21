@@ -194,3 +194,54 @@ border: none;
     color: #000;
     font-family: Graphik LC TT
 }
+.inner-flexbox1{
+position: absolute;
+width: 1440px;
+height: 1033px;
+left: 0px;
+top: 4875px;
+background: #FFF8E4;
+}
+.lokalize-info{
+   margin-top: 120px;
+   margin-bottom: 58px;
+}
+.info{
+    width: 720px;
+    height: 120px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 60px;
+    text-align: center;
+    padding-top: 108px;
+    padding-left: 415px;
+    font-family: Graphik LC 
+}
+.info-2{
+   font-weight: 600px;
+    font-size: 25px;
+    line-height: 35px;
+    padding-top: 26px;
+    padding-left: 105px;
+    font-family: Graphik LC TT;
+}
+.text{
+font-size: 18px;
+line-height: 25px;
+font-style: normal;
+}
+.img{
+   width: 160px;
+    height: 120px;
+    padding-top: 21px;
+    padding-left: 85px;
+}
+.flexbox{
+   flex-basis: 330px;
+   height: 294px;
+}
+.inner-flexbox2{
+   width: 1290px;
+    height: 998px;
+}
